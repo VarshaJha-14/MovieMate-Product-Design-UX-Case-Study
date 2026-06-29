@@ -9,7 +9,7 @@ A mobile-first movie ticket booking application designed to simplify the ticket 
 
 **Duration:** July 2022 – September 2022
 
-This project was completed as part of the Google UX Design Professional Certificate. The objective was to redesign the movie ticket booking experience by identifying user pain points through research and validating design decisions through usability testing. :contentReference[oaicite:0]{index=0}
+This project was completed as part of the Google UX Design Professional Certificate. The objective was to redesign the movie ticket booking experience by identifying user pain points through research and validating design decisions through usability testing. 
 
 ---
 
@@ -22,13 +22,13 @@ Existing movie booking experiences can be frustrating for:
 - Non-native English speakers
 - Users requiring accessibility support
 
-The challenge was to create an intuitive, inclusive, and time-efficient booking experience. :contentReference[oaicite:1]{index=1}
+The challenge was to create an intuitive, inclusive, and time-efficient booking experience. 
 
 ---
 
 ## 🎯 Goal
 
-Design a mobile application that enables users to book movie tickets quickly while reducing friction through accessibility, simple navigation, and an intuitive booking flow. :contentReference[oaicite:2]{index=2}
+Design a mobile application that enables users to book movie tickets quickly while reducing friction through accessibility, simple navigation, and an intuitive booking flow. 
 
 ---
 
@@ -52,7 +52,7 @@ Responsible for the project from concept to final prototype.
 - Accessibility Improvements
 - Iterative Design
 
-:contentReference[oaicite:3]{index=3}
+
 
 ---
 
@@ -93,7 +93,7 @@ Research included interviews and empathy mapping to understand how different use
 - Accessibility needs are often overlooked.
 - Users prefer minimal navigation with fewer steps.
 
-:contentReference[oaicite:4]{index=4}
+
 
 ---
 
@@ -111,7 +111,7 @@ Many users preferred booking in their native language rather than English.
 
 Existing apps lacked accessibility features and inclusive design considerations.
 
-:contentReference[oaicite:5]{index=5}
+
 
 ---
 
@@ -127,7 +127,7 @@ A recent immigrant who prefers applications supporting multiple languages.
 - Simple navigation
 - Faster booking process
 
-:contentReference[oaicite:6]{index=6}
+
 
 ---
 
@@ -141,7 +141,6 @@ The journey map highlighted opportunities to improve:
 - Booking confirmation
 - Reminder notifications
 
-:contentReference[oaicite:7]{index=7}
 
 ---
 
@@ -160,7 +159,7 @@ The interface evolved using research insights, prioritizing:
 - Recommended movies
 - Accessibility
 
-:contentReference[oaicite:8]{index=8}
+
 
 ---
 
@@ -184,7 +183,7 @@ Feedback led to:
 - Improved seat selection
 - Better accessibility through color choices
 
-:contentReference[oaicite:9]{index=9}
+
 
 ---
 
@@ -202,7 +201,6 @@ Major improvements after testing included:
 
 ✅ More intuitive navigation
 
-:contentReference[oaicite:10]{index=10}
 
 ---
 
@@ -257,11 +255,6 @@ If I revisit this project today, I would add:
 - Digital wallet integration
 - Loyalty & rewards program
 
----
-
-## 📷 Preview
-
-*(Add screenshots of your final UI here)*
 
 ---
 
